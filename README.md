@@ -15,6 +15,8 @@ This project is built using the following technologies and tools:
 - **GraphQL:** A query language for APIs used to retrieve and manipulate data.
 - **Vue Apollo:** A Vue integration for the Apollo Client, which allows you to fetch data from a GraphQL API in your Vue components.
 - **Tailwind CSS:** A utility-first CSS framework for creating responsive and highly customizable user interfaces.
+
+- **TODO**
 - **Firebase Authentication:** An authentication service to manage user registration, login, and security rules.
 - **Firebase Realtime Database:** A NoSQL database service to store and retrieve liked characters.
 
