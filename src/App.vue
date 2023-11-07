@@ -3,7 +3,7 @@
 
 <template>
   <div>
-    Hello Star Wars
+    <router-view></router-view>
   </div>
 </template>
 
